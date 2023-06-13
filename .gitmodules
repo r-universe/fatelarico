@@ -8,3 +8,8 @@
 	url = https://github.com/fatelarico/finnet
 	shallow = true
 	registered = true
+[submodule "morestopwords"]
+	path = morestopwords
+	url = https://github.com/fatelarico/morestopwords
+	shallow = true
+	registered = true
